@@ -24,6 +24,7 @@ JavaScript
 🚧 Ongoing development
 Stay tuned for future updates and improvements.
 
-![Description](travel web site/images/Annotation 2025-07-23 213954.png)
+TravelEase-booking-web-site/travel web site
+/images/
 ![Description](images/myscreenshot.png)
 ![Description](images/myscreenshot.png)
