@@ -26,3 +26,7 @@ Stay tuned for future updates and improvements.
 
 
 ![image alt](https://github.com/MalinduOshan/TravelEase-booking-web-site/blob/main/Annotation%202025-07-23%20213921.png?raw=true)
+
+![image alt](https://github.com/MalinduOshan/TravelEase-booking-web-site/blob/main/Annotation%202025-07-23%20213939.png?raw=true)
+
+![image alt](https://github.com/MalinduOshan/TravelEase-booking-web-site/blob/main/Annotation%202025-07-23%20213954.png?raw=true)
